@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261117/sipemburu23/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/sipemburu23/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-Sum up 17 November's world news in one image — a one-page newspaper front page for Tuesday 17 November 2026: 43 stories across 6 continents, drawn by a deterministic Python script (PIL) with flat vector-style illustrations. No photographs, no AI-generated imagery.
+A one-page newspaper front page summing up Tuesday 17 November 2026 in 43 stories. Round 2: rebuilt for legibility at thumbnail scale — every story line is 12px or larger, with a DATE CHECK box verifying the weekday.
 
 ## Run it
 
